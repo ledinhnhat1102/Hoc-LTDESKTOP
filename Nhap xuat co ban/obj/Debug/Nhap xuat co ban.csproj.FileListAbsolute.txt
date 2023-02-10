@@ -4,3 +4,9 @@ D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.pdb
 D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.exe
 D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.pdb
 D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.csprojResolveAssemblyReference.cache
+D:\Hoc-LTDESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.exe.config
+D:\Hoc-LTDESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.exe
+D:\Hoc-LTDESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.pdb
+D:\Hoc-LTDESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.exe
+D:\Hoc-LTDESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.pdb
+D:\Hoc-LTDESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.csprojResolveAssemblyReference.cache

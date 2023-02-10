@@ -20,7 +20,6 @@ namespace Nhap_xuat_co_ban
             
             //Console.ReadKey();
 
-<<<<<<< HEAD
             //doc 1 ki tu
             //Console.WriteLine(Console.Read());
             //Console.ReadKey();
@@ -42,13 +41,8 @@ namespace Nhap_xuat_co_ban
             Console.Write("moi ban nhap que quan: ");
             Console.WriteLine("que quan : " + Console.ReadLine());
             
-=======
-            //nhap
-            Console.Write(Console.Read());
-            Console.ReadKey();
-            //cc
-            //jj
->>>>>>> 17b3837ebf3a1888d8e607e749a116e270efbabb
+
+
         }
     }
 }
