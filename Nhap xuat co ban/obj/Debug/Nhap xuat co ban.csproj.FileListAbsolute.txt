@@ -1,0 +1,6 @@
+D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.exe.config
+D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.exe
+D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\bin\Debug\Nhap xuat co ban.pdb
+D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.exe
+D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.pdb
+D:\LTDESKTOP\LT DESKTOP\Nhap xuat co ban\obj\Debug\Nhap xuat co ban.csprojResolveAssemblyReference.cache
